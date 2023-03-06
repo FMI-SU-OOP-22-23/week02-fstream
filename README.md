@@ -23,3 +23,10 @@
 Също така искае да поддържам  възможност за добяне на нови студенти и оценки. Като спираме нашата програма, искаме да презапишем съответните файлове със новите студенти и оценки.
 
 https://cplusplus.com/reference/fstream/fstream/
+
+
+## Task 3
+Реализирайте команди cat, head tail
+https://www.unix.com/man-page/posix/1posix/cat/
+https://pubs.opengroup.org/onlinepubs/007904975/utilities/head.html
+https://pubs.opengroup.org/onlinepubs/007904875/utilities/tail.html
